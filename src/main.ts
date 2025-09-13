@@ -3,6 +3,8 @@ import './style.css'
 //import './temasTS/02-obj-interfaz-arre.ts'
 
 import './temasTS/03-funciones.ts'
+import './temasTS/07-clases.ts'
+import './temasTS/08-herencia.ts'
 import './temasTS/04-desestructuración-obj-arre.ts'
 import typescriptLogo from './typescript.svg'
 import viteLogo from '/vite.svg'
